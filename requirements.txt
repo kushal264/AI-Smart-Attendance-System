@@ -1,0 +1,8 @@
+opencv-python
+deepface==0.0.99
+streamlit
+tensorflow==2.15
+tf-keras
+numpy
+pandas
+openpyxl
